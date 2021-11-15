@@ -5,3 +5,8 @@
     - Rows
     - Columns
     - Gap
+
+- Position properties (Justify, Align, Place)
+    - Content
+    - Items
+    - Self
